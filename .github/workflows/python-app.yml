@@ -10,7 +10,7 @@ on:
     branches: [ "prod" ]
 
 permissions:
-  contents: read
+  contents: rea
 
 jobs:
   build:
